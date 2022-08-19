@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Finyahrua/Node_REST_Api/issues"
   },
-  "homepage": "https://github.com/Finyahrua/Node_REST_Api#readme"
+  "homepage": "https://github.com/Finyahrua/Node_REST_Api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
